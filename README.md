@@ -3,3 +3,5 @@ This repository contains files supplemental to papers in [_Developments in Busin
 
 ## Table of Contents
 1. magnifying_power.xlsx: Excel workbook showing the computation of Figure 1 in [_How to frame game a closed-ended test: Magnifying power, instant feedback, weighted distractors, packing, and dynamic scoreboard_, Vol. 53 (2026), pp. 121-130](https://absel-ojs-ttu.tdl.org/absel/article/view/3466).
+
+2. Another item.
